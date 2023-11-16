@@ -1,0 +1,25 @@
+{
+  "name": "programming-lang-display",
+  "version": "0.1.0",
+  "description": "Simple web server to display programming languages from database",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "engines": {
+    "npm": ">=8.19.4 <9.0.0",
+    "node": ">=16.20.0 <17.0.0"
+  },
+  "keywords": [
+    "docker",
+    "programming languages",
+    "database",
+    "simple"
+  ],
+  "author": "SalehKhalil",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.18.2",
+    "mongoose": "8.0.0"
+  }
+}
