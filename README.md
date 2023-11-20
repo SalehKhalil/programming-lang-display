@@ -4,6 +4,9 @@ Um aplicação Web simples em NodeJS que exibe linguagens de programação armaz
 ## Motivação
 Esse projeto existe apenas para exercitar a dockerização, para fazer com que duas imagens se conversem atravé de uma rede no docker.
 
+## Rotas
+- `/langs` (GET): Retorna todas os nomes de linguagens de programação armazenadas no banco de dados.
+
 ## Como rodar
 
 ### Pré-requisitos
